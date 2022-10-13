@@ -1,3 +1,25 @@
+---
+title: 'Paper Title'
+author:
+  - name: Jinyu Liu
+    affiliation:  
+    location: China
+    email: jinyu-liu@qq.com
+keywords:
+  - one
+  - two
+  - three
+numbersections: yes
+lang: en
+babel-lang: english
+abstract: |
+  This is the abstract.
+
+  It consists of two paragraphs.
+
+---
+
+
 # Introduction
 
 An introduction. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
@@ -31,15 +53,11 @@ id est laborum.
 
 # Cites
 
-Zotero + Better BibTex. All cites are on the file bibliography.bib. This is
-a cite[@djangoproject_models_2016].
+Zotero + Better BibTex. All cites are on the file references.bib. This is a cite [@djangoproject_models_2016].
 
-# Conclusion
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
-tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
-vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
-no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+
 
 # References
 
