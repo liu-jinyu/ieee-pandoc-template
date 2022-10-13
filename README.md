@@ -1,5 +1,6 @@
 # IEEE Paper Template for Pandoc
 > forked from [ieee-pandoc-template](https://github.com/stsewd/ieee-pandoc-template)
+
 [![Build Status](https://travis-ci.org/stsewd/ieee-pandoc-template.svg?branch=master)](https://travis-ci.org/stsewd/ieee-pandoc-template)
 
 ## Requirements
