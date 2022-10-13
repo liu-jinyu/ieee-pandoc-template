@@ -10,10 +10,11 @@ keywords:
   - two
   - three
 numbersections: yes
+natbib: yes
 lang: en
 babel-lang: english
 abstract: |
-  This is the abstract.
+  An introduction. Lorem ipsum dolor sit amet, consectetur adipisicing elit, seddo eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minimveniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonproident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
   It consists of two paragraphs.
 

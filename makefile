@@ -15,7 +15,7 @@ pdf:
 	pandoc -o $(OUTPUT)/paper.pdf $(FLAGS) --citeproc $(FILES)
 
 ieeepdf:
-	pandoc -o $(OUTPUT)/ieeepaper.pdf $(FLAGS) $(FLAGS_PDF) $(FILES)
+	pandoc -o $(OUTPUT)/ieeepaper.pdf $(FLAGS) $(FLAGS_PDF) --citeproc $(FILES)
 
 latex:
 	pandoc -o $(OUTPUT)/paper.tex $(FLAGS) --biblatex $(FILES)
